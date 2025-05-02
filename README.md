@@ -45,14 +45,9 @@
 ## 🛠️ Requirements
 
 - Python 3
-- OpenAI API Key 
+- OpenAI API Key
 
 
-## 🔧 Setup Instructions
-
-```
-
-```
 ## Installation
 
 Clone the repository
@@ -61,7 +56,7 @@ Clone the repository
   git clone https://github.com/your-username/codebase-analyzer.git
   cd codebase-analyzer
 ```
-    
+
 Create Virtual env
 
 ```bash
@@ -88,4 +83,3 @@ Run nb File
 - use pgsql to store embedding
 
 - Deploy to Modal
-
